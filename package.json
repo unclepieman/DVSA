@@ -32,7 +32,7 @@
     "serverless-stack-output": "^0.2.3"
   },
   "dependencies": {
-    "serverless": "^2.22.0",
-    "serverless-offline": "^4.10.6"
+    "serverless": "^4.33.0",
+    "serverless-offline": "^14.4.0"
   }
 }
